@@ -13,8 +13,8 @@ I'm also deeply motivated to contribute to **open-source projects** — not just
 
 ## 🛠️ Tech Stack
 
-- 💻 **Languages**: JavaScript, Python, C++, Java  
-- 🌐 **Web**: React, HTML5, CSS3, Node.js, Express.js  
+- 💻 **Languages**: JavaScript, Python, C++, TypeScript,C 
+- 🌐 **Web**: React, HTML5, CSS3, Node.js, Express.js,Serverless Backend  
 - 🛢️ **Databases**: MongoDB, MySQL  
 - ⚙️ **Tools**: Git, GitHub, VS Code, Postman  
 - ☁️ **Currently Learning**: Cloud technologies and DevOps basics
