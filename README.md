@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Ankesh-Kushwaha/Ankesh-Kushwaha/main/assets/banner.png" alt="Banner" />
+</p>
+
 # 👋 Hi there, I'm Ankesh Kushwaha
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Ankesh-Kushwaha&style=flat-square)
@@ -13,10 +17,10 @@ I'm also deeply motivated to contribute to **open-source projects** — not just
 
 ## 🛠️ Tech Stack
 
-- 💻 **Languages**: JavaScript, Python, C++, TypeScript,C 
-- 🌐 **Web**: React, HTML5, CSS3, Node.js, Express.js,Serverless Backend  
+- 💻 **Languages**: JavaScript, Python, C++, TypeScript, C 
+- 🌐 **Web**: React, HTML5, CSS3, Node.js, Express.js, Serverless Backend  
 - 🛢️ **Databases**: MongoDB, MySQL  
-- ⚙️ **Tools**: Git, GitHub, VS Code, Postman ,Docker,Monorepo
+- ⚙️ **Tools**: Git, GitHub, VS Code, Postman, Docker, Monorepo
 - ☁️ **Currently Learning**: Cloud technologies and DevOps basics
 
 ## 📈 GitHub Stats
