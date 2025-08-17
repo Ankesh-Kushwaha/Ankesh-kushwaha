@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Ankesh-Kushwaha/Ankesh-Kushwaha/main/assets/banner.png" alt="Banner" />
+  <img src="https://raw.githubusercontent.com/Ankesh-Kushwaha/Ankesh-Kushwaha/main/banner.png" alt="Banner" />
 </p>
 
 # 👋 Hi there, I'm Ankesh Kushwaha
