@@ -2,7 +2,6 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Ankesh-Kushwaha&style=flat-square)
 
-**About Me**
 I'm a passionate **Full-Stack MERN Developer** with a strong foundation in **Data Structures & Algorithms** and a hunger for continuous growth. I thrive at the intersection of functionality and efficiency — building robust web applications while writing clean, scalable code.
 
 Currently, I’m diving deeper into the world of **DevOps**, exploring tools and practices to streamline development and deployment pipelines. In the coming months, I plan to delve into **System Design** to better architect scalable, high-performance applications.
