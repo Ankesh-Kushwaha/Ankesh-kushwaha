@@ -32,7 +32,7 @@ Check out some of my pinned repositories below or explore my full list of (https
 
 - Email: [ankeshkush9651@gmail.com]  
 - LinkedIn: [https://www.linkedin.com/in/ankesh-kushwaha-6a88ab28b/] 
-- Portfolio: [https://ankesh-kushwaha.github.io/MyPortfolio/]
+- Portfolio: [[https://portfolio-dexs47y99-ankesh-kushwahas-projects.vercel.app/]]
 
 ---
 
