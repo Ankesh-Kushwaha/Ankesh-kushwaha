@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Ankesh Kushwaha
+# 👋 Hi there
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Ankesh-Kushwaha&style=flat-square)
 
