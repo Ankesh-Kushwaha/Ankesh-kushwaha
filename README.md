@@ -201,17 +201,6 @@ Scalable Real-Time Chat Application.
 
 </div>
 
----
-
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Ankesh-Kushwaha&theme=tokyonight&no-frame=true&row=1&column=7"/>
-
-</div>
-
----
 
 # 💻 LeetCode Statistics
 
