@@ -125,17 +125,6 @@
 
 </div>
 
-### Strong Problem Solving Skills In
-
-- Graph Algorithms
-- Dynamic Programming
-- Trees & Binary Trees
-- Binary Search
-- Sliding Window
-- Greedy Algorithms
-- BFS / DFS
-- Recursion & Backtracking
-
 ---
 
 # 🚀 Featured Projects
@@ -193,19 +182,6 @@ Scalable Real-Time Chat Application.
 
 `React` `Node.js` `Redis`
 
----
-
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ankesh-Kushwaha&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ankesh-Kushwaha&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
 
 # 🔥 GitHub Streak
 
